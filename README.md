@@ -68,6 +68,5 @@ HAL_GPIO_WritePin(GPIOA, GPIO_PIN_5, GPIO_PIN_RESET);
 ![IMG-20251109-WA0005 1](https://github.com/user-attachments/assets/badd1ec3-3e2e-4810-8023-3e56575478bb)
 
 **Result :**
-
 Interfacing a digital Input (Pushbutton ) with ARM microcontroller based IOT development is executed and the results are verified.
 
